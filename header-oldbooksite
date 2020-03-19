@@ -1,0 +1,25 @@
+<header>
+            <nav>
+                <a href="story1.html" id="story01">
+                <img src='photos/story%201.png' alt='story1' onmouseover='hstory1()' width='13%' >
+                </a>
+                <a href="story2.html" id="story02">
+                <img src='photos/story%202.png' alt='story2' onmouseover='hstory2()' width='13%' >
+                </a>
+                <a href="story3.html" id="story03">
+                <img src='photos/story%203.png' alt='story3' onmouseover='hstory3()' width='13%' >
+                </a>
+                
+            <a href="Index.html"><img src="photos/home.png" class='logo' alt="Fairy Tales - Home" title="Home" width="7%"></a>
+                
+            <a href="story4.html" id="story04">
+                <img src='photos/story%204.png' alt='story4' onmouseover='hstory4()' width='13%' >
+                </a>
+                <a href="madlib.html" id="madlib01">
+                <img src='photos/madlib.png' alt='madlib' onmouseover='hmadlib()' width='13%' >
+                </a>
+                <a href="references.html" id="reference01">
+                <img src='photos/reference.png' alt='references' onmouseover='hreference()' width='13%' >
+                </a>
+        </nav>
+        </header>
